@@ -18,7 +18,7 @@ $bash source
 "Name of archive"
 
 
-#Where the comple software are stored
+#Where the compile software are stored
 
 All of the compile software are save in your home directory. In compile software directory there is a .deb package so you can install it like a regular program.
 To uninstall it you can do it via package manager or terminal with sudo dpkg -r packagename
