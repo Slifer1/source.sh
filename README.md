@@ -1,6 +1,4 @@
-#source.sh is a script that will save you time by building the source code for you 
-
-#This is my first time coding in bash shell, pointers on how to make my code better would be very helpful
+#source.sh is a script that will save you time by building the source code for you. If you have any pointers on how to make my code better that would be awesome
 
 
 #Install
