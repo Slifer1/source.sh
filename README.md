@@ -22,3 +22,5 @@ All of the compile software are save in your home directory. In compile software
 To uninstall it you can do it via package manager or terminal with sudo dpkg -r packagename
 
 If you have any pointers on how to make my code better that would be awesome
+
+It was develope on a ubuntu-base distro
