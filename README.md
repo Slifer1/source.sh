@@ -23,4 +23,4 @@ To uninstall it you can do it via package manager or terminal with sudo dpkg -r 
 
 If you have any pointers on how to make my code better that would be awesome
 
-It was develope on a ubuntu-base distro
+It was develope on a ubuntu based distro
