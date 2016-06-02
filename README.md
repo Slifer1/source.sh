@@ -1,5 +1,4 @@
-#source.sh is a script that will save you time by building the source code for you. If you have any pointers on how to make my code better that would be awesome
-
+#source.sh is a script that will save you time by building the source code for you. 
 
 #Install
 
@@ -22,7 +21,4 @@ $bash source.sh
 All of the compile software are save in your home directory. In compile software directory there is a .deb package so you can install it like a regular program.
 To uninstall it you can do it via package manager or terminal with sudo dpkg -r packagename
 
-
-
-
-
+If you have any pointers on how to make my code better that would be awesome
