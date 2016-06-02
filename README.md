@@ -1,17 +1,18 @@
 #source.sh is a script that will save you time by building the source code for you 
 
-This is my first time coding in bash shell, pointers on how to make my code better would be very helpful
+#This is my first time coding in bash shell, pointers on how to make my code better would be very helpful
 
 
 #Install
 
-1. Download source.sh
+1. Download source.zip
+2. extract zip file to your home directory
+3. open your terminal and enter bash source.sh
 
-2. bash source.sh
 
 #Example usage
 
-$bash source
+$bash source.sh
 
 "Which file  do you want to extract?"
 
